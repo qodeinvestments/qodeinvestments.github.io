@@ -9,7 +9,7 @@ This website is for members only.
 Below are the links to webpages for Reporting of the Prop systems built via Zoho Analytics:
 
 ### [1.System Wise Daily Report](https://analytics.zoho.in/open-view/262393000000024556)
-  This report included Daily P/L, Drawdown graphs, NAV Graph, Daily Slippage and Overall Portfolio level slippage.
+  This report includes Daily P/L, Drawdown graphs, NAV Graph, Daily Slippage and Overall Portfolio level slippage.
   Enter the start and end date for the report. Recommend to put only one start and end date to see the daily summary.
   
   
@@ -17,6 +17,10 @@ Below are the links to webpages for Reporting of the Prop systems built via Zoho
   This Report will include P/L, Net Slippages, Entry and exit Slippages, and all other paramaters needed to compare the backtest
   with the Live portfolio. Values are in % and Re terms both.
   
+
+### [3.Managed AC Report](https://analytics.zoho.in/open-view/262393000000186504)
+  This report includes our Managed ACs Daily P/L, Portfolio values, Drawdown graphs, and NAV Graph.
+  Enter the start and end date for the report. Recommend to put only one start and end date to see the daily summary.
   
 
 
