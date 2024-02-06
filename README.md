@@ -22,7 +22,9 @@ Below are the links to webpages for Reporting of the Prop systems built via Zoho
   This report includes our Managed ACs Daily P/L, Portfolio values, Drawdown graphs, and NAV Graph.
   Enter the start and end date for the report. Recommend to put only one start and end date to see the daily summary.
   
-
+### [3.Rishabh Nahar Report](https://analytics.zoho.in/open-view/262393000001444836)
+  This report includes Rishabh Nahar's Daily P/L, Portfolio values, Drawdown graphs, and NAV Graph.
+  Enter the start and end date for the report. Recommend to put only one start and end date to see the daily summary.
 
 ### Support or Contact
 
